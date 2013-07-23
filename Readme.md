@@ -1,7 +1,7 @@
 
 # sortable-table
 
-  Sortable table.
+  Sortable table. [demo](http://yields.github.io/sortable-table/index.html)
 
 ## Installation
 
