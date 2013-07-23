@@ -2,6 +2,7 @@
   "name": "sortable-table",
   "repo": "yields/sortable-table",
   "description": "Sortable table.",
+  "demo": "http://yields.github.io/sortable-table/index.html",
   "version": "0.0.1",
   "keywords": ["sortable", "table"],
   "license": "MIT",
