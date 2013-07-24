@@ -53,8 +53,8 @@ SortableTable.prototype.bind = function(){
 
 function clone(el){
   var rect = el.getBoundingClientRect();
-  el.style.height = rect.height + 'px';
   el = el.cloneNode(true);
+  el.style.height = rect.height + 'px';
   for (var i = 0; i < el.children.length; ++i) {
     el.children[i].innerHTML = '';
   }
